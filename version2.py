@@ -56,5 +56,3 @@ elif letter == 'c' or letter == 'C':
 	img_12 = Image.open(ADDRESS+img_12)
 	img_12.show()
 	
-
-
