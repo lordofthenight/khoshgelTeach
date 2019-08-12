@@ -1,0 +1,7 @@
+import PIL
+from PIL import Image
+import numpy as np
+import matplotlib.pylot as plt
+img_1 = Image.open ("/home/hossein/Documents/GitHub/a.jpg")
+img_1.show()
+
